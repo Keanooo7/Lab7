@@ -8,3 +8,6 @@
 
 I would integrate my end‑to‑end tests within a GitHub Action, This is because it gives me immediate, continuous feedback on whether a change breaks the main brachs existing functionality. these tests would also provide better visibility to my teamates on my testing. 
  
+2) Would you use an end to end test to check if a function is returning the correct output? (yes/no)
+
+No, this is because you’d want to use a unit test for that, not an end‑to‑end test.
